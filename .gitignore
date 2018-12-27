@@ -1,0 +1,6 @@
+.idea
+.env
+/docker/data/*
+/src/vendor/*
+/src/runtime/*
+/src/data/*
